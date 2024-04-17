@@ -13,7 +13,9 @@ class eCargaMain extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginPage(),
+      home: LoadingScreen(
+        key: Key('LoadingScreen'),
+      ),
     );
   }
 }
@@ -21,7 +23,7 @@ class eCargaMain extends StatelessWidget {
 //   @override
 //   Widget build(BuildContext context) {
 //     return MaterialApp(
-//       debugShowCheckedModeBanner: false,
+// //       debugShowCheckedModeBanner: false,
 //       home: LoadingScreen(
 //         key: Key('LoadingScreen'), // Pass a Key to LoadingScreen
 //       ),
