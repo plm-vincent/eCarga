@@ -9,6 +9,7 @@ void main() {
 class eCargaMain extends StatelessWidget {
   const eCargaMain({Key? key}) : super(key: key);
 
+// eto yung original tropa
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -20,6 +21,7 @@ class eCargaMain extends StatelessWidget {
   }
 }
 
+// eto yung original tropa
 //   @override
 //   Widget build(BuildContext context) {
 //     return MaterialApp(

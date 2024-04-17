@@ -33,7 +33,9 @@ class _WelcomeECARGAState extends State<WelcomeECARGA> {
   void _navigateToSelectVehiclePage(BuildContext context) {
     Navigator.push(
       context,
-      MaterialPageRoute(builder: (context) => SelectVehiclePage()), // Navigate to SelectVehiclePage
+      MaterialPageRoute(
+          builder: (context) =>
+              SelectVehiclePage()), // Navigate to SelectVehiclePage
     );
   }
 
@@ -102,7 +104,8 @@ class _WelcomeECARGAState extends State<WelcomeECARGA> {
                 children: [
                   // Dark background
                   Container(
-                    color: Colors.black.withOpacity(0.5), // Adjust opacity as needed
+                    color: Colors.black
+                        .withOpacity(0.5), // Adjust opacity as needed
                     width: double.infinity,
                     height: double.infinity,
                   ),
