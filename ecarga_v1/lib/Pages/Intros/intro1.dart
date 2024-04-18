@@ -10,7 +10,7 @@ class IntroPage1 extends StatelessWidget {
       body: Stack(
         children: [
           Positioned(
-            top: 100, // Adjust the top position as needed
+            top: 100, // Adjust the top position as neede
             left: 15,
             right: 0,
             child: Center(
