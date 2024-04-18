@@ -3,7 +3,7 @@
 <p align="center">
   <p>
     <img src="images/white_red.png" alt="Logo" width="auto" height="120">
-  <p>
+  </p>
 
   <p align="center">
     A ride-hailing platform exclusively designed for people <br>with mobility disabilities and physical impairments.
