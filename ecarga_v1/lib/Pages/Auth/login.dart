@@ -1,6 +1,6 @@
 import 'package:ecarga_v1/Pages/Auth/otp.dart';
+import 'package:ecarga_v1/Pages/Auth/register.dart';
 import 'package:flutter/material.dart';
-import 'otp.dart';
 
 class LoginPage extends StatelessWidget {
   final TextEditingController phoneController =
@@ -173,18 +173,30 @@ class LoginPage extends StatelessWidget {
             left: 70,
           ),
           Positioned(
-            child: Text(
-              'Register here!',
-              style: TextStyle(
-                fontSize: 13,
-                fontFamily: 'Metropolis',
-                color: Color(0xFFAF2025),
-                fontWeight: FontWeight.w800,
-              ),
-            ),
-            top: 515,
-            left: 255,
-          ),
+  top: 515,
+  left: 255,
+  child: GestureDetector(
+    onTap: () {
+      // Navigate to the RegisterPage
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => RegisterPage(),
+        ),
+      );
+    },
+    child: Text(
+      'Register here!',
+      style: TextStyle(
+        fontSize: 13,
+        fontFamily: 'Metropolis',
+        color: Color(0xFFAF2025),
+        fontWeight: FontWeight.w800,
+      ),
+    ),
+  ),
+),
+
           Positioned(
             child: Text(
               'Your mobile number will allow customer service and drivers to\ncontact you about your bookings.',
