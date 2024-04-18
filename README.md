@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <p>
+  <p align="center">
     <img src="images/white_red.png" alt="Logo" width="auto" height="120">
   </p>
 
