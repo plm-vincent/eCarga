@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/SimCoderYoutube/UberClone">
-    <img src="images/ecarga_white.png" alt="Logo" width="auto" height="120">
+    <img src="images/white_red.png" alt="Logo" width="auto" height="120">
   </a>
 
   <p align="center">
