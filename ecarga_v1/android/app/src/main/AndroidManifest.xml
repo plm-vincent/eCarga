@@ -8,7 +8,7 @@
     <application
         android:label="ecarga_v1"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
 
 
 
