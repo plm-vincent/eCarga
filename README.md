@@ -53,7 +53,7 @@ It is made using flutter, firebase, and Google Maps API.
 
 - ### **Installation**
 
-  In order to install the project, allow the permission to install from unkown sources, and then enable location.
+  In order to install the project, allow the permission to install from unknown sources, and then enable location.
 
 <!-- CONTACT -->
 
