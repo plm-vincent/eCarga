@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SimCoderYoutube/UberClone">
+  <p>
     <img src="images/white_red.png" alt="Logo" width="auto" height="120">
-  </a>
+  <p>
 
   <p align="center">
     A ride-hailing platform exclusively designed for people <br>with mobility disabilities and physical impairments.
