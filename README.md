@@ -40,6 +40,9 @@ This repository contains the project entry made for the GDSC PLM Innolympics 202
 
 It is made using flutter, firebase, and Google Maps API.
 
+
+<b> Disclaimer </b> <p>This is just a prototype test application made by our team. You may encounter bugs and limited functionalities since we are just at the early stage of our iteration. </p> 
+
 ## 🆕 Getting Started
 
 - ### **Prerequisites**
