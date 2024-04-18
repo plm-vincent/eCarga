@@ -17,6 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li>Product Description in <a href="https://vinniiee.notion.site/eCarga-Project-Description-b8a978bc0e2345fe954bcd15ae1e72bf">Notion</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
